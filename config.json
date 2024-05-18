@@ -1,9 +1,9 @@
 {
   "token":"Your Discord Bot Token",
-  "prefix": ".",
+  "prefix": "~",
   
-  "clientID": "Spotify clientID",
-  "clientSecret": "Spotify clientSecret",
+  "clientID": "d3bba913b3cf4dc5855ef315c0ad3813",
+  "clientSecret": "85ee5beac71d4e6691ce2683716bb191",
   "nodes": [
     {
     "host" : "narco.buses.rocks",
